@@ -61,7 +61,6 @@ The database is structured with tables to handle:
  nco and cid password - 1234
 
 ## Screenshots
-_Add screenshots here if available, such as the login screen, dashboard, case management screen, and any other key interfaces. This helps users get a quick preview of the application._
 
 ### Example Screenshots
 1. **Login Screen**
